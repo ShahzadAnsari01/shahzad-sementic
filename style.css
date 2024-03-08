@@ -1,0 +1,178 @@
+*{ 
+ 
+ margin: 1%;
+ padding: 1%;
+  
+ flex-wrap: wrap;
+ 
+  
+  
+}
+.container{
+    display:flex
+    margin: auto;
+    
+    
+    
+
+
+    
+    
+}
+
+
+.header{
+   
+   padding: 10px;
+    background-color: cadetblue;
+   
+    margin: 10px;
+    text-align: center;
+    display: block;
+    
+    border-radius: 25px;
+    width: 50%;
+    display: flexbox
+      
+}
+
+.nav-bar{
+  
+   padding: 10px;
+   margin: 10px;
+    background-color: blueviolet; 
+   
+    text-align: center;
+    display: block;
+    
+    border-radius: 25px;
+    width: 50%;
+    display:flexbox
+   }
+
+
+.asside{
+    float: left;
+    border-radius: 25px;
+    padding: 10px;
+
+    background-color: burlywood;
+    
+     margin: 10px;
+     text-align: center;
+     display:block;
+      align-items: center;
+     
+     box-sizing: border-box;
+     
+     width: 75px;
+     height: 250px;
+     display:flex
+    
+     
+   }
+    
+    
+   
+
+.main{
+    font-size: 80%;
+    float: inline-start;
+    width: 380px;
+padding: 10px;
+    background-color: rgb(235, 126, 126);
+    margin: 10px;; 
+   height: 250px;
+  
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 25px;
+ display: block; 
+ 
+ 
+ 
+ 
+}
+
+.article{
+    border-radius: 25px;
+
+
+box-sizing: border-box;
+background-color: rgb(219, 241, 136);
+
+margin: 10px;
+text-align: center;
+
+padding: 10px;
+display: block;
+display:flexbox
+
+}
+.figure{
+  
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(13, 228, 228);
+    
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    display:flexbox
+    
+    
+}
+.p{
+    
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(228, 172, 127);
+    
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    display:flexbox
+   
+    
+
+}
+.section{
+   
+    border-radius: 25px;
+    background-color: rgb(72, 64, 145);
+   
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    
+    padding: 10px;
+    display: block;
+   
+    display:flexbox
+}
+
+   .footer {
+   
+    border-radius: 25px;
+    background-color: rgb(136, 216, 8); 
+    
+    margin: 10px;
+    text-align:center
+    
+
+    
+    padding: 10px;
+    box-sizing: border-box;
+    display: block;
+   
+    width: 53%;
+    display: flex
+   
+
+   }
+  
+   
+
+
